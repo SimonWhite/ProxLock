@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ProxLock</string>
+    
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">General</string>
+
+    <string name="pref_title_proximity_lock">Enable Proximity Lock</string>
+    <string name="pref_description_proximity_lock">Proximity sensor allows to lock screen without power button</string>
+
+
+</resources>
